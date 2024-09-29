@@ -9,4 +9,5 @@ Like previously mentioned, I have a deep passion for martial arts. I enjoy watch
 ## Websites I reccomend 
 https://www.onefc.com/ https://hiphopdx.com/
 # Mermaid Assignment
+Using mermaid, I detail the steps to an effective Muay Thai roundhouse kick in a Flowchart.
 https://github.com/shhurst/Howtoroundhousekick
