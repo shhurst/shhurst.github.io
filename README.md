@@ -24,3 +24,4 @@ Using mermaid, I detail the steps to an effective Muay Thai roundhouse kick in a
     L-->M[Use the inner point of your patella to aim at your target directly while kicking. The kick will go as high as the knee is elevated, and proper hip rotation will allow the shin to land whereever it aims.]
     M-->N[In practice you should aim for the same points of contact for corresponding High, Middle or Low kick. For example: Practice aiming at the outer side of the lower lead leg quadricep **everytime**.]
 ```
+``
